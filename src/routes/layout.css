@@ -1,0 +1,33 @@
+@import 'tailwindcss';
+@import 'reveal.js/reveal.css';
+@import 'reveal.js/theme/white.css';
+
+* {
+	text-transform: none !important;
+}
+
+html,
+body {
+	height: 100%;
+	margin: 0;
+}
+
+.reveal {
+	width: 100%;
+	/* height: 100vh;  */
+	height: 100%;
+}
+
+.reveal .slides,
+.reveal .slides>section {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.reveal .slides>section {
+	display: flex;
+	align-items: stretch;
+	justify-content: stretch;
+}

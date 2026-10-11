@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="1360px" height="768px" viewBox="0 0 1360 768.012" xmlns="http://www.w3.org/2000/svg">
+  <rect x="103" y="84.732" width="139.465" height="74.621" rx="3" ry="3" style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 1;"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 20px; text-anchor: middle; white-space: pre;" x="172.703" y="129.222" transform="matrix(1, 0, 0, 1, 334.654388, -10.981541)">Sales App<tspan x="172.7030029296875" dy="1em">​</tspan>(external)</text>
+  <rect x="437.736" y="84.121" width="139.465" height="74.621" rx="3" ry="3" style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 1;"/>
+  <rect x="762.94" y="84.83" width="168.365" height="74.621" rx="3" ry="3" style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: rgb(0, 42, 134);"/>
+  <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 20px; stroke: rgb(255, 255, 255); text-anchor: middle; white-space: pre;" x="847.123" y="128.712">SAP</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 20px; text-anchor: middle; white-space: pre;" transform="matrix(1.20722, 0, 0, 1, -992.977173, -13.139681)"><tspan x="965.615" y="131.738">Marketplace</tspan><tspan x="965.615" dy="1em">​</tspan><tspan>App</tspan></text>
+  <line style="fill: none; stroke: rgb(0, 0, 0); stroke-dasharray: 4; stroke-width: 1;" x1="172.732" y1="159.352" x2="172.659" y2="577.997"/>
+  <line style="fill: none; stroke: rgb(0, 0, 0); stroke-dasharray: 4; stroke-width: 1;" x1="507.542" y1="159.353" x2="507.469" y2="577.997"/>
+  <line style="fill: none; stroke: rgb(0, 0, 0); stroke-dasharray: 4; stroke-width: 1;" x1="847.122" y1="159.451" x2="847.052" y2="578.095"/>
+  <polygon style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1;" points="507.357 203.135 485.356 199.027 488.208 203.031 485.494 207.027"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0);" d="M 188.696 203.027 L 507.357 203"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 20px; text-anchor: middle; white-space: pre;" transform="matrix(1.20722, 0, 0, 1, -842.708923, 62.514683)" x="965.615" y="131.738">SO data</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 20px; text-anchor: middle; white-space: pre;" transform="matrix(1.20722, 0, 0, 1, -476.620178, 106.525749)" x="965.615" y="131.738">POST /customTable</text>
+  <polygon style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1;" points="847.052 252.794 825.052 248.686 827.902 252.69 825.192 256.686"/>
+  <g>
+    <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: rgb(95, 96, 91);" cx="172.695" cy="203.027" rx="16" ry="16"/>
+    <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 20px; font-weight: 700; stroke: rgb(255, 255, 255); text-anchor: middle; white-space: pre;" transform="matrix(1.20722, 0, 0, 1, -993.014221, 76.782211)" x="965.615" y="131.738">1</text>
+  </g>
+  <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: rgb(95, 96, 91);" cx="508.295" cy="253.25" rx="16" ry="16"/>
+  <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 20px; font-weight: 700; stroke: rgb(255, 255, 255); text-anchor: middle; white-space: pre;" transform="matrix(1.20722, 0, 0, 1, -657.414551, 127.005219)" x="965.615" y="131.738">2</text>
+  <rect x="1114.71" y="84.732" width="168.365" height="74.621" rx="3" ry="3" style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: rgb(255, 240, 250);"/>
+  <text style="fill: rgb(0, 42, 134); font-family: Arial, sans-serif; font-size: 20px; text-anchor: middle; white-space: pre;" x="1198.89" y="128.79">RPA Agent</text>
+  <line style="fill: none; stroke: rgb(0, 0, 0); stroke-dasharray: 4; stroke-width: 1;" x1="1199.04" y1="159.353" x2="1198.97" y2="577.997"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0);" d="M 524.531 252.686 L 847.052 252.686"/>
+  <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: rgb(95, 96, 91);" cx="1198.89" cy="311.634" rx="16" ry="16"/>
+  <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 20px; font-weight: 700; stroke: rgb(255, 255, 255); text-anchor: middle; white-space: pre;" transform="matrix(1.20722, 0, 0, 1, 33.18029, 185.389404)" x="965.615" y="131.738">3</text>
+  <polygon style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1; transform-box: fill-box; transform-origin: 50% 50%;" points="869.052 311.742 847.052 307.634 849.912 311.638 847.192 315.634" transform="matrix(-1, 0, 0, -1, 0.000005, 0.000006)"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1; transform-box: fill-box; transform-origin: 50% 50%;" d="M 847.123 311.634 L 1182.89 311.634" transform="matrix(-1, 0, 0, -0.999999, 0.000072, 0.000333)"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 20px; text-anchor: middle; white-space: pre;" transform="matrix(1.20722, 0, 0, 1, -150.703186, 164.974548)" x="965.615" y="131.738">Trigger Automation</text>
+  <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: rgb(95, 96, 91);" cx="847.052" cy="368.006" rx="16" ry="16"/>
+  <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 20px; font-weight: 700; stroke: rgb(255, 255, 255); text-anchor: middle; white-space: pre;" transform="matrix(1.20722, 0, 0, 1, -318.657471, 241.761703)" x="965.615" y="131.738">4</text>
+  <polygon style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1; transform-origin: 183.733px 368.675px;" points="194.733 368.783 172.733 364.675 175.593 368.679 172.873 372.675" transform="matrix(-1, 0, 0, -1, -0.000001, 0.000025)"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1; transform-origin: 1342.49px 312.441px;" d="M 831.053 368.773 L 172.733 368.773"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 20px; text-anchor: middle; white-space: pre;" transform="matrix(1.20722, 0, 0, 1, -702.358887, 224.043289)" x="965.615" y="131.738">GET /shipper</text>
+  <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 1; fill: rgb(95, 96, 91);" cx="172.733" cy="442.677" rx="16" ry="16"/>
+  <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 20px; font-weight: 700; stroke: rgb(255, 255, 255); text-anchor: middle; white-space: pre;" transform="matrix(1.20722, 0, 0, 1, -992.976746, 317.797974)" x="965.615" y="131.738">5</text>
+  <polygon style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1;" points="847.122 442.729 825.122 438.621 827.972 442.625 825.262 446.621"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1; stroke-dasharray: 2;" d="M 188.733 442.677 L 847.052 442.621"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 20px; text-anchor: middle; white-space: pre;" transform="matrix(1.20722, 0, 0, 1, -694.40564, 298.913483)" x="965.615" y="131.738">Response: Shipper data</text>
+  <rect x="878.574" y="457.209" width="259.657" height="43.65" rx="3" ry="3" style="stroke-width: 1; stroke: rgb(9, 186, 18); fill: rgb(209, 238, 255);" transform="matrix(1, 0, -0.412807, 1, 35.514065, 29.717501)"/>
+  <text style="fill: rgb(0, 42, 134); font-family: Arial, sans-serif; font-size: 14px; text-anchor: middle; white-space: pre;" transform="matrix(1.20722, 0, 0, 1, -319.541718, 381.939728)" x="965.615" y="131.738">Manual process: PGI</text>
+</svg>

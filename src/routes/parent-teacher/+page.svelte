@@ -2,7 +2,7 @@
 	import coverTexture from '$lib/assets/parent-teacher/cover.png';
 	import programmerPhoto from '$lib/assets/parent-teacher/programmer-at-work.jpg';
 	import programmerCodingPhoto from '$lib/assets/parent-teacher/programmer-coding.jpg';
-	import airportPhoto from '$lib/assets/parent-teacher/airport.jpg';
+	import airportPhoto from '$lib/assets/parent-teacher/soekarno-hatta.jpg';
 	import meetingPhoto from '$lib/assets/parent-teacher/team-meeting.jpg';
 	import rocketIcon from '$lib/assets/parent-teacher/rocket.png';
 </script>
@@ -53,10 +53,10 @@
 					class="absolute right-0 bottom-0 left-0 flex items-end justify-between gap-4 p-7 text-white max-[700px]:p-4"
 				>
 					<div>
-						<p class="!mb-2 text-[12px] font-bold tracking-[0.16em] text-[#c5c5ff]">IDEA → KODE → SOLUSI</p>
+						<p class="!mb-2 text-[12px] font-bold tracking-[0.16em] text-[#c5c5ff]">IDE → KODE → SOLUSI</p>
 						<p class="!text-[21px] !font-semibold !text-white">Membangun dunia digital</p>
 					</div>
-					<span class="shrink-0 text-[12px] text-white/70">Foto: Unsplash</span>
+					<!-- <span class="shrink-0 text-[12px] text-white/70">Foto: Unsplash</span> -->
 				</figcaption>
 			</figure>
 
@@ -72,34 +72,33 @@
 					Apa yang dilakukan seorang <span class="text-[#5d50e6]">Programmer?</span>
 				</h2>
 				<p class="programmer-summary !mt-5 max-w-[640px] !text-[25px] !leading-[1.45] !text-[#596176] max-[900px]:!mt-3 max-[900px]:!text-[19px] max-[700px]:!mt-2">
-					Menulis, menguji, dan memelihara kode sumber agar program komputer, aplikasi mobile,
-					dan sistem operasi dapat berjalan.
+					Menulis, menguji, dan memelihara kode program (Source Code) agar Aplikasi, Program Komputer, dan Sistem Operasi dapat berjalan dengan baik.
 				</p>
 
 				<div class="programmer-responsibilities mt-6 max-[900px]:mt-3 max-[700px]:mt-2">
-					<h3 class="programmer-responsibilities-heading !mb-3 !text-[20px] !leading-tight !font-extrabold tracking-[0.12em] text-[#5144d8] max-[900px]:!mb-2">
-						TANGGUNG JAWAB UTAMA
+					<h3 class="programmer-responsibilities-heading !mb-3 !text-[32px] !leading-tight !font-extrabold tracking-[0.12em] text-[#5144d8] max-[900px]:!mb-2">
+						Tugas dan Tanggung Jawab
 					</h3>
 					<ul class="programmer-responsibility-list m-0 flex list-none flex-col gap-3 p-0 max-[900px]:gap-2 max-[700px]:gap-1">
-						<li class="programmer-responsibility flex items-start gap-3 text-[21px] leading-[1.35] text-[#414a60] max-[900px]:text-[17px] max-[700px]:text-[14px]">
-							<span class="mt-0.5 inline-flex size-7 shrink-0 items-center justify-center rounded-full bg-[#e8e7ff] text-[18px] font-bold text-[#5144d8]">1</span>
-							<span>Menulis kode untuk membuat aplikasi, perangkat lunak, dan sistem komputer.</span>
+						<li class="programmer-responsibility flex items-start gap-3 text-[24px] leading-[1.35] text-[#414a60] max-[900px]:text-[22px] max-[700px]:text-[14px]">
+							<span class="mt-0.5 inline-flex size-7 shrink-0 items-center justify-center rounded-full bg-[#e8e7ff] font-bold text-[#5144d8]">1</span>
+							<span>Menulis kode program untuk membuat Aplikasi, Program Komputer, atau Sistem Operasi.</span>
 						</li>
-						<li class="programmer-responsibility flex items-start gap-3 text-[21px] leading-[1.35] text-[#414a60] max-[900px]:text-[17px] max-[700px]:text-[14px]">
-							<span class="mt-0.5 inline-flex size-7 shrink-0 items-center justify-center rounded-full bg-[#e8e7ff] text-[18px] font-bold text-[#5144d8]">2</span>
-							<span>Menguji program, menemukan bug, lalu memperbaikinya.</span>
+						<li class="programmer-responsibility flex items-start gap-3 text-[24px] leading-[1.35] text-[#414a60] max-[900px]:text-[22px] max-[700px]:text-[14px]">
+							<span class="mt-0.5 inline-flex size-7 shrink-0 items-center justify-center rounded-full bg-[#e8e7ff] font-bold text-[#5144d8]">2</span>
+							<span>Menguji program, menemukan "Bugs", dan memperbaikinya.</span>
 						</li>
-						<li class="programmer-responsibility flex items-start gap-3 text-[21px] leading-[1.35] text-[#414a60] max-[900px]:text-[17px] max-[700px]:text-[14px]">
-							<span class="mt-0.5 inline-flex size-7 shrink-0 items-center justify-center rounded-full bg-[#e8e7ff] text-[18px] font-bold text-[#5144d8]">3</span>
-							<span>Memelihara dan memperbarui kode yang sudah ada.</span>
+						<li class="programmer-responsibility flex items-start gap-3 text-[24px] leading-[1.35] text-[#414a60] max-[900px]:text-[22px] max-[700px]:text-[14px]">
+							<span class="mt-0.5 inline-flex size-7 shrink-0 items-center justify-center rounded-full bg-[#e8e7ff] font-bold text-[#5144d8]">3</span>
+							<span>Memelihara (maintain) dan terus menerus memperbarui kode program (Source Code) yang sudah ada.</span>
 						</li>
-						<li class="programmer-responsibility flex items-start gap-3 text-[21px] leading-[1.35] text-[#414a60] max-[900px]:text-[17px] max-[700px]:text-[14px]">
-							<span class="mt-0.5 inline-flex size-7 shrink-0 items-center justify-center rounded-full bg-[#e8e7ff] text-[18px] font-bold text-[#5144d8]">4</span>
-							<span>Berkolaborasi dengan pengembang, desainer, dan manajer proyek.</span>
+						<li class="programmer-responsibility flex items-start gap-3 text-[24px] leading-[1.35] text-[#414a60] max-[900px]:text-[22px] max-[700px]:text-[14px]">
+							<span class="mt-0.5 inline-flex size-7 shrink-0 items-center justify-center rounded-full bg-[#e8e7ff] font-bold text-[#5144d8]">4</span>
+							<span>Berkolaborasi dengan pihak terkait: Desainer, Project Manager, Pengguna.</span>
 						</li>
-						<li class="programmer-responsibility flex items-start gap-3 text-[21px] leading-[1.35] text-[#414a60] max-[900px]:text-[17px] max-[700px]:text-[14px]">
-							<span class="mt-0.5 inline-flex size-7 shrink-0 items-center justify-center rounded-full bg-[#e8e7ff] text-[18px] font-bold text-[#5144d8]">5</span>
-							<span>Terus mempelajari dan menerapkan teknologi baru.</span>
+						<li class="programmer-responsibility flex items-start gap-3 text-[24px] leading-[1.35] text-[#414a60] max-[900px]:text-[22px] max-[700px]:text-[14px]">
+							<span class="mt-0.5 inline-flex size-7 shrink-0 items-center justify-center rounded-full bg-[#e8e7ff] font-bold text-[#5144d8]">5</span>
+							<span>Membuat dokumentasi untuk program yang dikembangkan.</span>
 						</li>
 					</ul>
 				</div>
@@ -113,7 +112,7 @@
 			<h2
 				class="m-0 !text-[44px] !leading-[1.08] !font-bold !tracking-[-0.04em] !text-[#172033] max-[900px]:!text-[36px]"
 			>
-				Mengapa dunia sangat membutuhkan Programmer?
+				Mengapa Programmer dibutuhkan?
 			</h2>
 		</header>
 		<div
@@ -125,12 +124,12 @@
 				<img
 					class="h-full w-full object-cover object-[center_42%]"
 					src={programmerPhoto}
-					alt="Programmer bekerja di depan sistem kasir digital"
+					alt="POS (Point Of Sales) system on a laptop screen with a programmer working in the background"
 				/>
 				<figcaption
 					class="absolute right-0 bottom-0 left-0 bg-gradient-to-t from-black/85 to-transparent px-7 pt-20 pb-7 text-[22px] font-bold text-white"
 				>
-					Ide dan kode hadir di sekitar kita.
+					Kode program di sekitar kita.
 				</figcaption>
 			</figure>
 			<div class="flex min-h-0 flex-col gap-3">
@@ -140,9 +139,9 @@
 						>▣</span
 					>
 					<div>
-						<h3 class="m-0 !text-[23px] !leading-tight !font-bold !text-[#172033]">Kehidupan Serba Digital</h3>
+						<h3 class="m-0 !text-[23px] !leading-tight !font-bold !text-[#172033]">Kehidupan serba Digital</h3>
 						<p class="!mt-2 text-[18px] leading-[1.35] text-[#697184]">
-							Aplikasi dan layanan digital berjalan berkat kode programmer.
+							Kebutuhan akan Aplikasi dan Layanan Digital dalam banyak aspek kehidupan sehari-hari.
 						</p>
 					</div>
 				</article>
@@ -154,7 +153,7 @@
 					<div>
 						<h3 class="m-0 !text-[23px] !leading-tight !font-bold !text-[#172033]">Otomatisasi Perusahaan</h3>
 						<p class="!mt-2 text-[18px] leading-[1.35] text-[#697184]">
-							Sistem mengotomatisasi pekerjaan agar lebih cepat dan akurat.
+							Perusahaan membutuhkan otomatisasi agar seluruh proses terhubung, pekerjaan menjadi lebih cepat dan akurat.
 						</p>
 					</div>
 				</article>
@@ -164,9 +163,9 @@
 						>✓</span
 					>
 					<div>
-						<h3 class="m-0 !text-[23px] !leading-tight !font-bold !text-[#172033]">Penyelesai Masalah</h3>
+						<h3 class="m-0 !text-[23px] !leading-tight !font-bold !text-[#172033]">Solusi untuk banyak permasalahan nyata</h3>
 						<p class="!mt-2 text-[18px] leading-[1.35] text-[#697184]">
-							Programmer membuat solusi digital untuk masalah nyata.
+							Solusi digital untuk masalah nyata harus berkembang, karena permasalahan nyata juga terus berkembang.
 						</p>
 					</div>
 				</article>
@@ -186,7 +185,7 @@
 					Luasnya dunia programmer: contoh spesialisasi Programmer
 				</h2>
 			</div>
-			<div
+			<!-- <div
 				class="flex h-[100px] w-[245px] shrink-0 items-center gap-4 rounded-[20px] bg-[#202747] px-5 text-white shadow-[0_12px_30px_rgba(29,38,69,0.14)] max-[700px]:hidden"
 				aria-hidden="true"
 			>
@@ -195,7 +194,7 @@
 					<p class="!mb-1 text-[11px] font-bold tracking-[0.16em] text-[#c2bdff]">BUILD THE FUTURE</p>
 					<p class="text-[14px] font-semibold text-white/90">WEB · APP · SYSTEMS</p>
 				</div>
-			</div>
+			</div> -->
 		</header>
 
 		<div class="grid min-h-0 flex-1 grid-cols-6 grid-rows-2 gap-5 max-[900px]:gap-3 max-[650px]:grid-cols-1 max-[650px]:grid-rows-5">
@@ -212,7 +211,7 @@
 					</p>
 				</div>
 				<p class="!mt-4 text-[22px] leading-[1.38] text-[#626b7e] max-[900px]:!text-[18px]">
-					Merancang halaman yang dilihat pengguna sekaligus mengelola database dan server.
+					Merancang halaman Web untuk Pengguna, sekaligus mengelola Database dan Server.
 				</p>
 			</article>
 
@@ -225,11 +224,11 @@
 						Mobile App Developer
 					</h3>
 					<p class="!mt-3 text-[18px] font-semibold text-[#078abb] max-[900px]:!text-[16px]">
-						Aplikasi Android &amp; iOS
+						Aplikasi mobile: Android, iOS ....
 					</p>
 				</div>
 				<p class="!mt-4 text-[22px] leading-[1.38] text-[#626b7e] max-[900px]:!text-[18px]">
-					Membuat aplikasi ponsel untuk berbagai kebutuhan, mulai dari hiburan hingga produktivitas.
+					Membuat aplikasi telepon seluler untuk berbagai kebutuhan, mulai dari hiburan hingga produktivitas.
 				</p>
 			</article>
 
@@ -263,7 +262,7 @@
 					</p>
 				</div>
 				<p class="!mt-4 text-[22px] leading-[1.38] text-[#626b7e] max-[900px]:!text-[18px]">
-					Membangun program untuk mengelola keuangan, stok barang, dan operasional perusahaan.
+					Membangun program untuk mengelola keuangan, jaringan suplai, dan operasional perusahaan.
 				</p>
 			</article>
 
@@ -280,7 +279,7 @@
 					</p>
 				</div>
 				<p class="!mt-4 text-[22px] leading-[1.38] text-[#626b7e] max-[900px]:!text-[18px]">
-					Menyatukan aplikasi agar dapat bertukar data secara otomatis.
+					Menyatukan sistem dan aplikasi agar dapat bertukar data secara efisien dan aman.
 				</p>
 			</article>
 		</div>
@@ -292,7 +291,7 @@
 			<h2
 				class="m-0 !text-[48px] !leading-[1.08] !font-bold !tracking-[-0.04em] !text-[#172033] max-[900px]:!text-[38px]"
 			>
-				Skill Apa Saja yang Dibutuhkan?
+				Skill apa saja yang dibutuhkan?
 			</h2>
 		</header>
 		<div class="grid h-[340px] flex-none grid-cols-2 grid-rows-2 items-stretch gap-5 max-[900px]:gap-3">
@@ -305,10 +304,10 @@
 				>
 				<div>
 					<h3 class="m-0 !text-[26px] !leading-[1.12] !font-bold !text-[#172033]">
-						Logika Pemecahan Masalah
+						Logika pemecahan masalah
 					</h3>
 					<p class="!mt-3 text-[19px] leading-[1.35] text-[#626b7e]">
-						Berpikir runtut untuk menyelesaikan masalah langkah demi langkah.
+						Berpikir runtut dan sistematis untuk menyelesaikan masalah langkah demi langkah.
 					</p>
 				</div>
 			</article>
@@ -336,7 +335,7 @@
 				<div>
 					<h3 class="m-0 !text-[26px] !leading-[1.12] !font-bold !text-[#172033]">Kerja Sama Tim</h3>
 					<p class="!mt-3 text-[19px] leading-[1.35] text-[#626b7e]">
-						Berkolaborasi dengan desainer, manajer proyek, dan pengguna.
+						Berkolaborasi dengan anggota tim: Desainer, Project Manager, dan Pengguna.
 					</p>
 				</div>
 			</article>
@@ -350,7 +349,7 @@
 				<div>
 					<h3 class="m-0 !text-[26px] !leading-[1.12] !font-bold !text-[#172033]">Bahasa Inggris</h3>
 					<p class="!mt-3 text-[19px] leading-[1.35] text-[#626b7e]">
-						Membaca dokumentasi teknis dan terhubung dengan komunitas global.
+						Membaca dokumentasi teknis, terhubung dengan ruang diskusi komunitas global.
 					</p>
 				</div>
 			</article>
@@ -376,7 +375,7 @@
 					SMP, SMA, atau SMK
 				</p>
 				<p class="!mt-3 text-[18px] leading-[1.35] text-[#626b7e] max-[900px]:!text-[15px]">
-					Membangun logika, matematika, Bahasa Inggris, literasi.
+					Membangun logika, Matematika, Bahasa Inggris, Literasi.
 				</p>
 			</article>
 			<span class="self-center text-[48px] font-light text-[#a6a2d5] max-[650px]:rotate-90" aria-hidden="true">›</span>
@@ -389,7 +388,7 @@
 					Informatika / Ilmu Komputer
 				</p>
 				<p class="!mt-3 text-[18px] leading-[1.35] text-[#626b7e] max-[900px]:!text-[15px]">
-					Mempelajari software, algoritma, dan sistem komputer.
+					Mempelajari Algoritma, bahasa Pemrograman, sistem Komputer, Jaringan, Basis Data.
 				</p>
 			</article>
 			<span class="self-center text-[48px] font-light text-[#a6a2d5] max-[650px]:rotate-90" aria-hidden="true">›</span>
@@ -404,7 +403,7 @@
 					Kursus, bootcamp &amp; sertifikasi
 				</p>
 				<p class="!mt-3 text-[18px] leading-[1.35] text-[#626b7e] max-[900px]:!text-[15px]">
-					Membangun portofolio dan mengikuti perkembangan teknologi.
+					Membangun portofolio, mengikuti perkembangan Teknologi.
 				</p>
 			</article>
 		</div>
@@ -430,21 +429,29 @@
 				<img
 					class="absolute inset-0 h-full w-full object-cover object-[center_57%]"
 					src={airportPhoto}
-					alt="Airport concourse representing the flexibility to work remotely"
+					alt="A woman wearing a hijab waits in an airport lounge."
 				/>
 				<div class="absolute inset-0 bg-gradient-to-t from-[#111729]/95 via-[#111729]/25 to-transparent"></div>
 				<figcaption class="absolute inset-x-0 bottom-0 p-8 text-white max-[700px]:p-5">
 					<p class="mb-3 w-fit rounded-full bg-[#159c63]/90 px-4 py-1.5 text-[13px] font-bold tracking-[0.1em] text-white">
 						SISI MENYENANGKAN
 					</p>
-					<h3 class="!mb-3 !text-[30px] !leading-tight !font-bold !text-white max-[700px]:!text-[23px]">
-						Karya yang berdampak, fleksibilitas yang luas
+					<h3 class="!mb-3 !text-[34px] !leading-tight !font-bold !text-white max-[700px]:!text-[23px]">
+						Karya yang berguna, fleksibilitas yang luas
 					</h3>
-					<ul class="m-0 grid list-none grid-cols-3 gap-4 p-0 text-[16px] leading-[1.4] text-white/90 max-[700px]:grid-cols-1 max-[700px]:gap-1.5 max-[700px]:text-[13px]">
-						<li>Bisa membuat aplikasi yang bermanfaat bagi orang banyak.</li>
+					<ul class="m-0 grid list-none grid-cols-3 gap-4 p-0 text-[22px] leading-[1.4] text-white/90 max-[700px]:grid-cols-1 max-[700px]:gap-1.5 max-[700px]:text-[13px]">
+						<li>Menghasilkan karya yang bermanfaat bagi orang banyak.</li>
 						<li>Kesempatan berinteraksi dengan orang lain dari berbagai latar belakang, online maupun offline.</li>
-						<li>Kesempatan karier luas, kesempatan bekerja dan belajar di negeri lain</li>
+						<li>Kesempatan karier luas, kesempatan bekerja dan belajar di negeri lain.</li>
 					</ul>
+					<a
+						class="mt-3 inline-block text-[11px] !text-white/70 no-underline hover:!text-white hover:underline"
+						href="https://www.pexels.com/photo/woman-with-face-mask-sitting-on-chair-in-airport-lounge-16132829/"
+						target="_blank"
+						rel="noreferrer"
+					>
+						<!-- Foto: M. Noor TM / Pexels -->
+					</a>
 				</figcaption>
 			</figure>
 
@@ -462,10 +469,10 @@
 					<p class="mb-3 w-fit rounded-full bg-[#dd625a]/90 px-4 py-1.5 text-[13px] font-bold tracking-[0.1em] text-white">
 						TANTANGAN NYATA
 					</p>
-					<h3 class="!mb-3 !text-[30px] !leading-tight !font-bold !text-white max-[700px]:!text-[23px]">
+					<h3 class="!mb-3 !text-[34px] !leading-tight !font-bold !text-white max-[700px]:!text-[23px]">
 						Belajar terus, teliti, dan jaga kesehatan
 					</h3>
-					<ul class="m-0 grid list-none grid-cols-3 gap-4 p-0 text-[16px] leading-[1.4] text-white/90 max-[700px]:grid-cols-1 max-[700px]:gap-1.5 max-[700px]:text-[13px]">
+					<ul class="m-0 grid list-none grid-cols-3 gap-4 p-0 text-[22px] leading-[1.4] text-white/90 max-[700px]:grid-cols-1 max-[700px]:gap-1.5 max-[700px]:text-[13px]">
 						<li>Jika ada "Bugs" pada program, mencari dan memperbaikinya perlu kesabaran.</li>
                         <li>Seringkali ada tenggat waktu yang ketat.</li>
 						<li>Tidak boleh berhenti belajar, karena Teknologi terus berubah.</li>
@@ -476,45 +483,153 @@
 		</div>
 	</section>
 
+	
+	<section class="slide flex flex-col gap-8 bg-[#fbfcfe] text-left max-[900px]:gap-5">
+		<header class="shrink-0">
+			<p class="!mb-3 text-[14px] font-bold tracking-[0.045em] text-[#5144d8]">LOGIKA · ALGORITMA</p>
+			<h2
+				class="m-0 !text-[42px] !leading-[1.08] !font-bold !tracking-[-0.04em] !text-[#172033] max-[900px]:!text-[34px]"
+			>
+				Mari berpikir seperti program Komputer: mencari Bar yang paling pendek
+			</h2>
+			<p class="!mt-3 text-[17px] leading-[1.4] text-[#616a7b]">
+				<!-- Bandingkan satu per satu, lalu simpan bar terpendek yang ditemukan sejauh ini. -->
+			</p>
+		</header>
+
+		<div class="grid min-h-0 flex-1 grid-cols-[1.05fr_0.95fr] items-stretch gap-5 max-[700px]:grid-cols-1">
+			<article class="rounded-[17px] bg-[#202a41] p-6 text-[#f5f7fb] max-[900px]:p-5">
+				<p class="!mb-4 text-[13px] font-bold tracking-[0.08em] text-[#91a0ff]">ALGORITMA SEDERHANA</p>
+				<ol class="m-0 flex list-none flex-col gap-2 p-0 font-mono text-[22px] leading-[1.4] text-[#e6eaf3] max-[900px]:text-[15px]">
+					<li class="fragment fade-in flex items-start gap-3 rounded-lg bg-[#121b30] px-3 py-2.5" data-fragment-index="1">
+						<span class="inline-flex size-7 shrink-0 items-center justify-center rounded-full bg-[#5144d8] text-[14px] font-bold text-white">1</span>
+						<span>Anggap Bar 1 sebagai yang paling pendek.</span>
+					</li>
+					<li class="fragment fade-in flex items-start gap-3 rounded-lg bg-[#121b30] px-3 py-2.5" data-fragment-index="2">
+						<span class="inline-flex size-7 shrink-0 items-center justify-center rounded-full bg-[#5144d8] text-[14px] font-bold text-white">2</span>
+						<span>Bandingkan Bar 2. Lebih tinggi, jadi tetap pilih Bar 1.</span>
+					</li>
+					<li class="fragment fade-in flex items-start gap-3 rounded-lg bg-[#121b30] px-3 py-2.5" data-fragment-index="3">
+						<span class="inline-flex size-7 shrink-0 items-center justify-center rounded-full bg-[#5144d8] text-[14px] font-bold text-white">3</span>
+						<span>Bandingkan Bar 3. Lebih pendek, jadi pilih Bar 3.</span>
+					</li>
+					<li class="fragment fade-in flex items-start gap-3 rounded-lg bg-[#121b30] px-3 py-2.5" data-fragment-index="4">
+						<span class="inline-flex size-7 shrink-0 items-center justify-center rounded-full bg-[#5144d8] text-[14px] font-bold text-white">4</span>
+						<span>Bandingkan Bar 4. Lebih tinggi, tetap pilih Bar 3.</span>
+					</li>
+					<li class="fragment fade-in flex items-start gap-3 rounded-lg bg-[#121b30] px-3 py-2.5" data-fragment-index="5">
+						<span class="inline-flex size-7 shrink-0 items-center justify-center rounded-full bg-[#5144d8] text-[14px] font-bold text-white">5</span>
+						<span>Bandingkan Bar 5. Lebih pendek, jadi pilih Bar 5.</span>
+					</li>
+					<li class="fragment fade-in flex items-start gap-3 rounded-lg bg-[#121b30] px-3 py-2.5" data-fragment-index="6">
+						<span class="inline-flex size-7 shrink-0 items-center justify-center rounded-full bg-[#5144d8] text-[14px] font-bold text-white">6</span>
+						<span>Bandingkan Bar 6. Lebih tinggi, tetap pilih Bar 5.</span>
+					</li>
+					<li class="fragment fade-in flex items-start gap-3 rounded-lg border border-[#75d6ac]/35 bg-[#153c3a] px-3 py-2.5 text-[#c7f9dc]" data-fragment-index="7">
+						<span class="inline-flex size-7 shrink-0 items-center justify-center rounded-full bg-[#159a5d] text-[14px] font-bold text-white">✓</span>
+						<span>Semua sudah dibandingkan. Bar 5 adalah yang paling pendek.</span>
+					</li>
+				</ol>
+			</article>
+
+			<article class="flex min-h-0 flex-col rounded-[17px] border border-[#e7eaf1] bg-white p-6 max-[900px]:p-5">
+				<p class="!mb-4 text-[26px] font-bold tracking-[0.08em] text-[#737b8c]">6 BAR DENGAN TINGGI BERBEDA</p>
+				<div class="flex min-h-0 flex-1 flex-col justify-end rounded-xl bg-[#f5f6ff] px-4 pt-5">
+					<div class="flex h-[270px] items-end justify-center gap-4 border-b-2 border-[#cbd0df] px-2 max-[900px]:h-[230px] max-[700px]:h-[175px] max-[700px]:gap-2">
+						<div class="flex h-full w-14 flex-col items-center justify-end gap-2 max-[700px]:w-10">
+							<div class="h-[145px] w-full rounded-t-lg bg-[#766cf0] max-[700px]:h-[120px]"></div>
+							<span class="pb-2 text-[15px] font-bold text-[#414a60]">1</span>
+						</div>
+						<div class="flex h-full w-14 flex-col items-center justify-end gap-2 max-[700px]:w-10">
+							<div class="h-[210px] w-full rounded-t-lg bg-[#766cf0] max-[700px]:h-[175px]"></div>
+							<span class="pb-2 text-[15px] font-bold text-[#414a60]">2</span>
+						</div>
+						<div class="flex h-full w-14 flex-col items-center justify-end gap-2 max-[700px]:w-10">
+							<div class="h-[105px] w-full rounded-t-lg bg-[#766cf0] max-[700px]:h-[90px]"></div>
+							<span class="pb-2 text-[15px] font-bold text-[#414a60]">3</span>
+						</div>
+						<div class="flex h-full w-14 flex-col items-center justify-end gap-2 max-[700px]:w-10">
+							<div class="h-[180px] w-full rounded-t-lg bg-[#766cf0] max-[700px]:h-[150px]"></div>
+							<span class="pb-2 text-[15px] font-bold text-[#414a60]">4</span>
+						</div>
+						<div class="flex h-full w-14 flex-col items-center justify-end gap-2 max-[700px]:w-10">
+							<div class="h-[72px] w-full rounded-t-lg bg-[#766cf0] max-[700px]:h-[62px]"></div>
+							<span class="pb-2 text-[15px] font-bold text-[#414a60]">5</span>
+						</div>
+						<div class="flex h-full w-14 flex-col items-center justify-end gap-2 max-[700px]:w-10">
+							<div class="h-[132px] w-full rounded-t-lg bg-[#766cf0] max-[700px]:h-[110px]"></div>
+							<span class="pb-2 text-[15px] font-bold text-[#414a60]">6</span>
+						</div>
+					</div>
+					<p class="!mt-3 pb-3 text-center text-[13px] font-semibold text-[#7a8292]">Nomor bar</p>
+				</div>
+
+				<div class="r-stack mt-4 min-h-[72px]">
+					<p class="fragment fade-in-then-out flex items-center justify-center rounded-lg bg-[#eeefff] px-4 py-3 text-center text-[22px] font-bold text-[#4039a7]" data-fragment-index="1">
+						Mulai: Bar 1 adalah yang paling pendek.
+					</p>
+					<p class="fragment fade-in-then-out flex items-center justify-center rounded-lg bg-[#eeefff] px-4 py-3 text-center text-[22px] font-bold text-[#4039a7]" data-fragment-index="2">
+						Bar 2 lebih tinggi. Pilihan sementara: Bar 1.
+					</p>
+					<p class="fragment fade-in-then-out flex items-center justify-center rounded-lg bg-[#eeefff] px-4 py-3 text-center text-[22px] font-bold text-[#4039a7]" data-fragment-index="3">
+						Bar 3 lebih pendek. Pilihan sementara: Bar 3.
+					</p>
+					<p class="fragment fade-in-then-out flex items-center justify-center rounded-lg bg-[#eeefff] px-4 py-3 text-center text-[22px] font-bold text-[#4039a7]" data-fragment-index="4">
+						Bar 4 lebih tinggi. Pilihan sementara: Bar 3.
+					</p>
+					<p class="fragment fade-in-then-out flex items-center justify-center rounded-lg bg-[#eeefff] px-4 py-3 text-center text-[22px] font-bold text-[#4039a7]" data-fragment-index="5">
+						Bar 5 lebih pendek. Pilihan sementara: Bar 5.
+					</p>
+					<p class="fragment fade-in-then-out flex items-center justify-center rounded-lg bg-[#eeefff] px-4 py-3 text-center text-[22px] font-bold text-[#4039a7]" data-fragment-index="6">
+						Bar 6 lebih tinggi. Pilihan sementara: Bar 5.
+					</p>
+					<p class="fragment fade-in flex items-center justify-center rounded-lg bg-[#e1f7ea] px-4 py-3 text-center text-[26px] font-extrabold text-[#157a4b]" data-fragment-index="7">
+						Bar 5 adalah yang paling pendek!
+					</p>
+				</div>
+			</article>
+		</div>
+	</section>
+
 	<section class="slide flex flex-col gap-11 bg-[#fbfcfe] text-left max-[900px]:gap-7">
 		<header class="shrink-0">
-			<p class="!mb-3 text-[14px] font-bold tracking-[0.045em] text-[#5144d8]">AKTIVITAS INTERAKTIF</p>
+			<p class="!mb-3 text-[14px] font-bold tracking-[0.045em] text-[#5144d8]">LOGIKA · ALGORITMA</p>
 			<h2
 				class="m-0 !text-[39px] !leading-[1.12] !font-bold !tracking-[-0.035em] !text-[#172033] max-[900px]:!text-[31px]"
 			>
-				Berfikir runtut dan logis: Mari Berpikir Seperti Komputer!
+				Mari berpikir seperti program Komputer: membuat Minuman.
 			</h2>
 		</header>
 		<div class="grid min-h-0 flex-1 grid-cols-[1fr_0.85fr] items-stretch gap-[18px] max-[650px]:grid-cols-1">
 			<article class="rounded-[17px] bg-[#202a41] p-[28px_30px] text-[#f5f7fb]">
 				<p class="!mb-5 text-[13px] font-bold tracking-[0.04em] text-[#91a0ff]">ALGORITMA SEDERHANA</p>
 				<ol
-					class="m-0 rounded-[10px] bg-[#121b30] py-5 pr-[22px] pl-[50px] font-mono text-[17px] leading-[1.9] text-[#e6eaf3]"
+					class="m-0 rounded-[10px] bg-[#121b30] py-5 pr-[22px] pl-[50px] font-mono text-[26px] leading-[1.9] text-[#e6eaf3]"
 				>
 					<li>Ambil Gelas</li>
-					<li><strong class="text-[#ff8189]">JIKA</strong> Teh Tersedia <strong class="text-[#ff8189]">MAKA</strong> Tuang Teh</li>
-					<li><strong class="text-[#ff8189]">JIKA TIDAK</strong> Tuang Air Putih</li>
-					<li>Tambahkan Gula 1 Sendok</li>
-					<li>Aduk Hingga Larut</li>
+					<li><strong class="text-[#ff8189]">JIKA</strong> Teh tersedia <strong class="text-[#ff8189]">MAKA</strong> tuang Teh</li>
+					<li><strong class="text-[#ff8189]">JIKA TIDAK, MAKA</strong> tuang Air Putih</li>
+					<li>Tambahkan Gula 1 sendok</li>
+					<li>Aduk hingga 10 detik</li>
 				</ol>
 			</article>
 			<article class="rounded-[17px] border border-[#e7eaf1] bg-white p-[28px_29px]">
-				<h3 class="!mb-[25px] flex items-center gap-2.5 !text-[19px] !font-bold !text-[#172033]">
+				<h3 class="!mb-[25px] flex items-center gap-2.5 !text-[26px] !font-bold !text-[#172033]">
 					<span
 						class="inline-flex size-[26px] items-center justify-center rounded-full bg-[#5c4fe3] text-[18px] text-white"
 						>?</span
 					>
-					Pertanyaan Diskusi:
+					Pertanyaan diskusi:
 				</h3>
-				<p class="text-[16px] leading-[1.5] text-[#616a7b]">
-					Apa minuman yang jadi jika Teh Habis di meja?
+				<p class="text-[26px] leading-[1.5] text-[#616a7b]">
+					Jika Teh habis, langkah-langkah diatas menghasilkan minuman apa?
 				</p>
 				<p class="!my-4 rounded-lg bg-[#eeefff] px-[15px] py-3 text-[16px] font-bold text-[#4039a7]">
 					<!-- Jawab: Air Manis (Air Putih + Gula)! -->
 				</p>
-				<p class="text-[14px] leading-[1.5] text-[#616a7b]">
-					Komputer bekerja seperti logika ini: menjalankan perintah secara jujur dan
-					runtut tanpa menduga-duga.
+				<p class="text-[22px] leading-[1.5] text-[#616a7b]">
+					Komputer bekerja seperti logika ini: menjalankan perintah persis seperti yang tertulis,
+					runtut, tanpa mampu menduga-duga.
 				</p>
 			</article>
 		</div>
@@ -527,7 +642,7 @@
 		<div class="relative z-[1] flex max-w-[1020px] flex-col items-center">
 			<img class="mb-[30px] size-[74px] rounded-full bg-[#7b6fff]/[0.18] p-[17px]" src={rocketIcon} alt="" />
 			<h2 class="m-0 !text-[48px] !leading-[1.12] !font-bold !tracking-[-0.035em] !text-[#f8f8ff]">
-				Siap menjadi kreator Teknologi masa depan?
+				Tertarik menjadi Programmer?
 			</h2>
 			<blockquote class="!my-[25px] !mb-[30px] max-w-[780px] text-[20px] leading-[1.55] text-[#c5c6d8]">
 				<!-- “Teknologi bukan sekadar untuk dipakai, melainkan diciptakan untuk mempermudah hidup
